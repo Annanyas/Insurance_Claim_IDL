@@ -1,5 +1,3 @@
-# Deep Claim Extensions for Medicare FFS Claims
-This repository contains the implementation and evaluation of enhancements to the Deep Claim model, tailored for predicting claim responses on Medicare Fee-for-Service (FFS) datasets. This project is part of the IDL corsework
 # **Deep Claim Extensions for Medicare FFS Claims**
 
 This repository contains the implementation and evaluation of enhancements to the Deep Claim model, tailored for predicting claim responses on Medicare Fee-for-Service (FFS) datasets. This project is part of the **IDL (Intelligent Data Lab) coursework**, aimed at advancing state-of-the-art techniques in healthcare claims processing.
